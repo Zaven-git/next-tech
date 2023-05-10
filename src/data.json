@@ -1,0 +1,21 @@
+{
+    "tabs": [
+        { "id": 1, "text": "Cultural Heritage" },
+        { "id": 2, "text": "Nature and Adventures" },
+        { "id": 3, "text": "Culinary Scene" },
+        { "id": 4, "text": "Leisure" }
+    ],
+    "gallary": [
+        { "path": "/assets/images/anna-khachikyan-PihUGNZcLEQ-unsplash.jpg", "category": 1, "title": "Arts" },
+        { "path": "/assets/images/Rectangle-2326.jpg", "category": 1, "title": "Churches / Monasteries" },
+        { "path": "/assets/images/anna-khachikyan-PihUGNZcLEQ-unsplash-1.png", "category": 1, "title": "Churches / Monasteries" },
+        { "path": "/assets/images/anna-khachikyan-PihUGNZcLEQ-unsplash-2.png", "category": 4, "title": "Museums" },
+        { "path": "/assets/images/anna-khachikyan-PihUGNZcLEQ-unsplash-4.png", "category": 1, "title": "Unesco Heritage" },
+        { "path": "/assets/images/Rectangle-2312.jpg", "category": 2, "title": "Sky" },
+        { "path": "/assets/images/Rectangle-2313.jpg", "category": 3, "title": "Stone Toaster" },
+        { "path": "/assets/images/Rectangle-2323.jpg", "category": 2, "title": "Mountain" },
+        { "path": "/assets/images/Rectangle-2324.jpeg", "category": 2, "title": "Mountain" },
+        { "path": "/assets/images/Rectangle-2327.jpg", "category": 1, "title": "Ararat" },
+        { "path": "/assets/images/Rectangle-2430.jpg", "category": 1, "title": "Garni" }
+    ]
+}
